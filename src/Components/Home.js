@@ -15,12 +15,9 @@ const Home = () => {
            Discover your next Hike
           </h1>
           <p className="primary-text-home">
-            Healthy switcher chefs do all the prep work, like peeding, chopping
-            & marinating, so you can cook a fresh food.
+          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
+          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
           </p>
-          {/* <button className="secondary-button">
-            Order Now <FiArrowRight />{" "}
-          </button> */}
         </div>
    
       </div>

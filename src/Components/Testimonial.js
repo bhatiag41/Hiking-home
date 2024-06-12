@@ -15,8 +15,12 @@ const Testimonial = () => {
         </h1>
         <p className="primary-subheading">2. Activities</p>
         <p className="primary-text" >
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        Kundalini is the most classic yoga. Its 
+origin is in the Raya Yoga of Patanjali 
+and other classical texts such as 
+ Bhagavad Gita and Hatha Yoga 
+
+Pradipika.
         </p>
         <hr/>
         <p className="primary-text">

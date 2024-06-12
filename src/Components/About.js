@@ -15,12 +15,15 @@ const About = () => {
         </h1>
         <p className="primary-subheading">1. Classes and Events</p>
         <p className="primary-text">
-          Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et
-          elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.
+        Hatha is the most classic yoga. Its origin 
+is in the Raya Yoga of Patanjali and other 
+classical texts such as 
+ 
         </p>
         <p className="primary-text">
-          Non tincidunt magna non et elit. Dolor turpis molestie dui magnis
-          facilisis at fringilla quam.
+        Bhagavad Gita and Hatha Yoga 
+
+Pradipika.
         </p>
         <div className="about-buttons-container">
           <button className="secondary-button">Learn More</button>
